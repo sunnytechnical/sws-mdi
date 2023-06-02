@@ -1,0 +1,17 @@
+{
+    "name": "sws/mdi",
+    "description": "MDI Integration API",
+    "type": "library",
+    "license": "SWS001",
+    "autoload": {
+        "psr-4": {
+            "Sws\\Mdi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SWS"
+        }
+    ],
+    "require": {}
+}
